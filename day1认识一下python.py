@@ -1,5 +1,5 @@
 # 1.学习一个python 从第一个hello world !  开始
-#print("hello world !")
+# print("hello world !")
 # 2.查看一下python 版本
 # import sys
 # print(sys.version_info)
@@ -20,11 +20,12 @@
 # turtle.pencolor('red')   
 # 画一个花
 import turtle
+
 # 画多少笔
-for i in range(100): 
-    turtle.pencolor('red') 
+for i in range(100):
+    turtle.pencolor('red')
     # 向前移动i 长度
     turtle.forward(i)
     # 向左移动91
     turtle.right(91)
-         
+# pythons
